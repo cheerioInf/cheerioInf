@@ -8,3 +8,5 @@
 </div>
 
 ![Dong Yuanwai's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheerioInf&theme=dark&show_icons=true)
+
+![Dong Yuanwai's github activity graph](https://activity-graph.herokuapp.com/graph?username=cheerioInf&theme=dracula)
