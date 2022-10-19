@@ -1,4 +1,10 @@
 ## 👋 Hi, I’m @cheerioInf
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/cheerioInf/count.svg" />
+</p>
 - 🌱 I’m currently learning frontEnd
 - 👀 I’m looking for help with React
 - 😄 Pronouns: he/him
