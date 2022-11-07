@@ -1,6 +1,8 @@
 <h1 align="left">Hi 👋, I'm CheerioInf</h1>
 <h3 align="left">A passionate frontend developer from China</h3>
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cheerioinf&label=Profile%20views&color=0e75b6&style=flat" alt="cheerioinf" /> </p>
 
 - 🌱 I’m currently learning **React, webGL...**
